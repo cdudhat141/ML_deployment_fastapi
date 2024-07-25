@@ -16,6 +16,7 @@ fastapi = "0.63.0"
 uvicorn = "^0.30.3"
 gunicorn = "^22.0.0"
 dvc = "^3.52.0"
+dvc-gdrive = "^3.0.1"
 
 
 [build-system]
