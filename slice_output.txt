@@ -1,0 +1,16 @@
+education = Bachelors: {'Precision': np.float64(0.9468984962406015), 'Recall': np.float64(0.9477892756349953), 'Fbeta': np.float64(0.9473436765397273)}
+education = HS-grad: {'Precision': np.float64(0.9455511288180611), 'Recall': np.float64(0.8806431663574521), 'Fbeta': np.float64(0.9119436439321166)}
+education = 11th: {'Precision': np.float64(1.0), 'Recall': np.float64(0.8983050847457628), 'Fbeta': np.float64(0.9464285714285714)}
+education = Masters: {'Precision': np.float64(0.958109559613319), 'Recall': np.float64(0.971677559912854), 'Fbeta': np.float64(0.9648458626284478)}
+education = 9th: {'Precision': np.float64(1.0), 'Recall': np.float64(0.8), 'Fbeta': np.float64(0.8888888888888888)}
+education = Some-college: {'Precision': np.float64(0.9446227929373997), 'Recall': np.float64(0.8809880239520959), 'Fbeta': np.float64(0.9116963594113091)}
+education = Assoc-acdm: {'Precision': np.float64(0.9565217391304348), 'Recall': np.float64(0.9453125), 'Fbeta': np.float64(0.9508840864440079)}
+education = 7th-8th: {'Precision': np.float64(0.967741935483871), 'Recall': np.float64(0.8571428571428571), 'Fbeta': np.float64(0.9090909090909091)}
+education = Doctorate: {'Precision': np.float64(0.9651567944250871), 'Recall': np.float64(0.9892857142857143), 'Fbeta': np.float64(0.9770723104056437)}
+education = Assoc-voc: {'Precision': np.float64(0.9506172839506173), 'Recall': np.float64(0.8953488372093024), 'Fbeta': np.float64(0.9221556886227545)}
+education = Prof-school: {'Precision': np.float64(0.9754901960784313), 'Recall': np.float64(0.9802955665024631), 'Fbeta': np.float64(0.9778869778869779)}
+education = 5th-6th: {'Precision': np.float64(1.0), 'Recall': np.float64(0.75), 'Fbeta': np.float64(0.8571428571428571)}
+education = 10th: {'Precision': np.float64(0.9811320754716981), 'Recall': np.float64(0.8813559322033898), 'Fbeta': np.float64(0.9285714285714286)}
+education = Preschool: {'Precision': np.float64(1.0), 'Recall': np.float64(1.0), 'Fbeta': np.float64(1.0)}
+education = 12th: {'Precision': np.float64(0.9565217391304348), 'Recall': np.float64(0.7586206896551724), 'Fbeta': np.float64(0.8461538461538461)}
+education = 1st-4th: {'Precision': np.float64(1.0), 'Recall': np.float64(1.0), 'Fbeta': np.float64(1.0)}
